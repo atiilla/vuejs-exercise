@@ -13,7 +13,6 @@
 	- [X] Routing
 	- [X] State Management
 
-<br/>
 
  - [ ] Advanced
 	- [ ] Composition API
@@ -27,14 +26,12 @@
 	- [ ] Custom Events
 	- [ ] Vue Router
 
-<br/>
 
 - [ ] Testing
 	- [ ] Jest Testing
 	- [ ] Cypress Testing
 	- [ ] Vue Test Utils
 
-<br/>
 
 - [ ] Styling
 	- [ ] CSS
